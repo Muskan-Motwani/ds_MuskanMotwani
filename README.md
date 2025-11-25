@@ -27,7 +27,7 @@ This analysis helps identify **patterns, signals, and market conditions** useful
 
 ---
 
-# 📊 **Datasets Used**
+#  **Datasets Used**
 
 | Dataset                               | Description                                                    | Key Columns                                                |
 | ------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -156,7 +156,7 @@ This assignment demonstrates the ability to combine **data science + finance + b
 
 #  **Author**
 
-** Muskan Motwani**
+**Muskan Motwani**
 
 
 
