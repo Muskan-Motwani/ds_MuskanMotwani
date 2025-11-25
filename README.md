@@ -8,7 +8,7 @@
 
 ---
 
-# 📁 **Project Structure**
+#  **Project Structure**
 
 | Folder / File      | Description                                                  |
 | ------------------ | ------------------------------------------------------------ |
@@ -20,7 +20,7 @@
 
 ---
 
-# 🎯 **Objective**
+#  **Objective**
 
 To analyze **how trading behavior** (profitability, trade volume, risk-taking) aligns with or deviates from **overall crypto market sentiment** (Fear → Greed).
 This analysis helps identify **patterns, signals, and market conditions** useful in trading strategy development.
@@ -156,7 +156,7 @@ This assignment demonstrates the ability to combine **data science + finance + b
 
 #  **Author**
 
-**👩‍💻 Muskan Motwani**
+** Muskan Motwani**
 
-�
+
 
