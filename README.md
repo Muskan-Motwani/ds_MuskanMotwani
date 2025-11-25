@@ -45,15 +45,15 @@ git clone https://github.com/Muskan-Motwani/ds_MuskanMotwani.git
 cd ds_MuskanMotwani
 ```
 
-### ⭐ 2. Open in Google Colab
+###  2. Open in Google Colab
 
 Upload & open `notebook_1.ipynb`.
 
-### ⭐ 3. Place Data Files
+###  3. Place Data Files
 
 Put your CSVs inside the `csv_files/` folder.
 
-### ⭐ 4. Run All Notebook Cells
+###  4. Run All Notebook Cells
 
 This will perform:
 
@@ -89,7 +89,7 @@ This will perform:
 
 ---
 
-### ✅ **3. Combined (Merged) Analysis**
+###  **3. Combined (Merged) Analysis**
 
 | Analysis                      | What It Shows                                   |
 | ----------------------------- | ----------------------------------------------- |
